@@ -1,0 +1,12 @@
+
+  { The importance of Git and Github is to give a high quality service in 
+coding by developing and evolving projects on every individual or group of 
+developers and one of the most important to git through the system it can
+stores projects or any codes that developed which can easily track the his-
+tory code that commited or any changes happen though its offline unless the 
+system downloaded to the device or computer and also the importance of Github 
+it allows other user to be part and make changes through sharing some applic-
+able sources to maintain the good progress of projects as long as it connected
+to the internet because Github is a cloud based and theres no any demand charges
+if you were creating an account and making new repository it either private or
+public }

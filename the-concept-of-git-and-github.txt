@@ -1,0 +1,8 @@
+{ The concept of Git and Github is to merge every users or teams to collaborate
+in project together through there objective since its an open resource project.
+Git and Github is a magnifincent combination keeping and sharing molded ideas 
+especially to new users that can absorb ideas for the better learning strategies
+or techniques. This gives a big oppurtunity to programmers be part in every sou-
+rces and fully manage the code or project to attained and avoid difficulty in tr-
+acking every decision path or viewing codes to help the developers maintain the 
+project workflows. }
